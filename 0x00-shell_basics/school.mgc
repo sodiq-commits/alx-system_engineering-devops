@@ -1,3 +1,6 @@
 #!/bin/bash
+0 string SCHOOL School data
+!:mime School
+terminal
 <file -C -m school.mgk>`
 <file --mime-type -m school.mgc *>
